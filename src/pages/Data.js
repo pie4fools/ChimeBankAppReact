@@ -53,3 +53,14 @@ export const homeObjFour = {
   img: 'svg-8.svg',
   alt: 'Vault'
 };
+
+export const homeObjFive = {
+  lightBg: false,
+  lightText: true,
+  lightTextDesc: true,
+  topLine: 'Sign Up',
+  headline: 'Register for free access to our website and updates on our deals!',
+  
+
+
+}
