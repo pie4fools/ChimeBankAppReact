@@ -1,7 +1,7 @@
 import React from 'react';
 import HeroSection from '../../components/HeroSection';
 import { homeObjThree } from './Data';
-import Subscribe from '../Login/Login';
+import Subscribe from '../Subscribe/Subscribe';
 
 function SignUp() {
   return (
