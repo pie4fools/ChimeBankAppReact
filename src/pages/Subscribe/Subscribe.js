@@ -34,7 +34,7 @@ function Subscribe() {
                 type='password'
                 placeholder='Password'
               />
-              <Button buttonStyle='btn--subscribe'>Subscribe</Button>
+              <Button className='subbtn'buttonStyle='btn--outline' buttonColor='blue'>Subscribe</Button>
             </form>
           </div>
         </section>

@@ -7,22 +7,22 @@ import { Button } from './Button';
 function Login() {
   return (
     <div className='subscribe-container'>
-      <section className='sub-subscription'>
+      <section className='log-subscription'>
         <div className='input-areas'>
           <form>
             <input
-              className='subscribe-input'
+              className='log-input'
               name='email'
               type='email'
               placeholder='Your Email'
             />
             <input
-              className='subscribe-input'
+              className='log-input'
               name='password'
               type='password'
               placeholder='Password'
             />
-            <Button buttonStyle='btn--subscribe'>Login</Button>
+            <Button className='LogBtn' buttonStyle='btn--subscribe' buttonColor='blue'>Login</Button>
           </form>
         </div>
       </section>
