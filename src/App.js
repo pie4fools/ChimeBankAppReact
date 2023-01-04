@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import Services from './pages/Services/Services';
 import Products from './pages/Products/Products';
 import SignUp from './pages/SignUp/SignUp';
-import Footer from './pages/Footer/Footer';
+import Footerpage from './pages/Footerpage/Footerpage';
 import Loginpage from './pages/Login/Loginpage';
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
         <Route path='/login' element={<Loginpage />} />
         <Route path='/sign-up' element={<SignUp />} />
       </Routes>
-      <Footer />
+      <Footerpage />
     </Router>
   );
 }

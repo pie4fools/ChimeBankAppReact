@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer.css';
+import './Footerpage.css';
 import { Button } from '../../components/Button';
 import { Link } from 'react-router-dom';
 import {
