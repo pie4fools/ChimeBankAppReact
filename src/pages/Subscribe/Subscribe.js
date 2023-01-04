@@ -1,6 +1,6 @@
 import React from 'react';
 import './Subscribe.css';
-import { Button } from '../../Components/Button';
+import { Button } from '../../components/Button';
 
 
 

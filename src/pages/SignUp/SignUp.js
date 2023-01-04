@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroSection from '../../Components/HeroSection';
+import HeroSection from '../../components/HeroSection';
 import { homeObjThree } from './Data';
 import Subscribe from '../Subscribe/Subscribe';
 
