@@ -60,7 +60,4 @@ export const homeObjFive = {
   lightTextDesc: true,
   topLine: 'Sign Up',
   headline: 'Register for free access to our website and updates on our deals!',
-  
-
-
-}
+};

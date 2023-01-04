@@ -1,8 +1,8 @@
 {
   "name": "react-website-v2",
+  "homepage": "https://pie4fools.github.io/react-website-v2/",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://pie4fools.github.io/react-website-v2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
