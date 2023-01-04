@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from '../../components/HeroSection';
+import HeroSection from '../../Components/HeroSection';
 import { homeObjThree } from './Data';
-import Login from '../../components/Login';
+import Login from '../../Components/Login';
 
 function Loginpage() {
     return (
