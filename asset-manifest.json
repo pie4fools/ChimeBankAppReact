@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-website-v2/static/css/main.66e63ec2.chunk.css",
-  "main.js": "/react-website-v2/static/js/main.bcc0f60a.chunk.js",
-  "main.js.map": "/react-website-v2/static/js/main.bcc0f60a.chunk.js.map",
-  "static/js/1.7da7581c.chunk.js": "/react-website-v2/static/js/1.7da7581c.chunk.js",
-  "static/js/1.7da7581c.chunk.js.map": "/react-website-v2/static/js/1.7da7581c.chunk.js.map",
-  "runtime~main.js": "/react-website-v2/static/js/runtime~main.cc5f75de.js",
-  "runtime~main.js.map": "/react-website-v2/static/js/runtime~main.cc5f75de.js.map",
-  "static/css/main.66e63ec2.chunk.css.map": "/react-website-v2/static/css/main.66e63ec2.chunk.css.map",
-  "index.html": "/react-website-v2/index.html",
-  "precache-manifest.2ef127a2a71bb68e7eee11815e7840f3.js": "/react-website-v2/precache-manifest.2ef127a2a71bb68e7eee11815e7840f3.js",
-  "service-worker.js": "/react-website-v2/service-worker.js"
+  "main.css": "/react-website-v2/home/static/css/main.66e63ec2.chunk.css",
+  "main.js": "/react-website-v2/home/static/js/main.bcc0f60a.chunk.js",
+  "main.js.map": "/react-website-v2/home/static/js/main.bcc0f60a.chunk.js.map",
+  "static/js/1.7da7581c.chunk.js": "/react-website-v2/home/static/js/1.7da7581c.chunk.js",
+  "static/js/1.7da7581c.chunk.js.map": "/react-website-v2/home/static/js/1.7da7581c.chunk.js.map",
+  "runtime~main.js": "/react-website-v2/home/static/js/runtime~main.e728a306.js",
+  "runtime~main.js.map": "/react-website-v2/home/static/js/runtime~main.e728a306.js.map",
+  "static/css/main.66e63ec2.chunk.css.map": "/react-website-v2/home/static/css/main.66e63ec2.chunk.css.map",
+  "index.html": "/react-website-v2/home/index.html",
+  "precache-manifest.0f7a403b26577e1e540450fc7d0e8af7.js": "/react-website-v2/home/precache-manifest.0f7a403b26577e1e540450fc7d0e8af7.js",
+  "service-worker.js": "/react-website-v2/home/service-worker.js"
 }
