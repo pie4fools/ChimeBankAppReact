@@ -8,7 +8,7 @@ export const homeObjOne = {
       'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'svg1.svg',
+    img: 'https://github.com/pie4fools/react-website-v2/blob/gh-pages/svg1.svg?raw=true',
     alt: 'Credit Card'
   };
   
@@ -22,7 +22,7 @@ export const homeObjOne = {
       'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: 'svg5.svg',
+    img: 'https://github.com/pie4fools/react-website-v2/blob/gh-pages/svg5.svg?raw=true',
     alt: 'Vault'
   };
   
@@ -36,7 +36,7 @@ export const homeObjOne = {
       "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
     buttonLabel: 'Start Now',
     imgStart: 'start',
-    img: 'svg7.svg',
+    img: 'https://github.com/pie4fools/react-website-v2/blob/gh-pages/svg7.svg?raw=true',
     alt: 'Vault'
   };
   
@@ -50,6 +50,6 @@ export const homeObjOne = {
       'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: 'svg8.svg',
+    img: 'https://github.com/pie4fools/react-website-v2/blob/gh-pages/svg8.svg?raw=true',
     alt: 'Vault'
   };

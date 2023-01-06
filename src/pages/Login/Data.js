@@ -9,6 +9,6 @@ export const homeObjThree = {
   "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
   buttonLabel: 'Start Now',
   imgStart: 'start',
-  img: 'svg7.svg',
+  img: 'https://github.com/pie4fools/react-website-v2/blob/gh-pages/svg7.svg?raw=true',
   alt: 'Vault'
 };
