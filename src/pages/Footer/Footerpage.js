@@ -9,7 +9,7 @@ import {
   FaTwitter,
   FaLinkedin
 } from 'react-icons/fa';
-import { MdFingerprint } from 'react-icons/md';
+import { MdCable } from "react-icons/md";
 
 
 function Footer() {
@@ -73,11 +73,11 @@ function Footer() {
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
-              <MdFingerprint className='navbar-icon' />
-              LAVISH
+              <MdCable className='navbar-icon' />
+              WEBSITE
             </Link>
           </div>
-          <small className='website-rights'>LAVISH © 2020</small>
+          <small className='website-rights'>WEBSITE © 2023</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link'

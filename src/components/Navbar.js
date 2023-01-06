@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { MdFingerprint } from 'react-icons/md';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { Button } from './Button';
 import './Navbar.css';
 import { IconContext } from 'react-icons/lib';
+import { MdCable } from "react-icons/md";
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -32,8 +32,8 @@ function Navbar() {
         <div className='navbar-1'>
           <div className='navbar-container container'>
             <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-              <MdFingerprint className='navbar-icon' />
-              LAVISH
+              <MdCable className='navbar-icon' />
+              WEBSITE
             </Link>
           <div className='menu-icon' onClick={handleClick}>
             {click ? <FaTimes /> : <FaBars />}
