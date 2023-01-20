@@ -1,6 +1,6 @@
 {
   "name": "react-website-v2",
-  "homepage": "https://pie4fools.github.io/react-website-v2/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
