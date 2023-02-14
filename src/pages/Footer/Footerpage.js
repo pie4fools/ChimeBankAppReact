@@ -74,10 +74,10 @@ function Footer() {
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
               <MdCable className='navbar-icon' />
-              WEBSITE
+              SHIME
             </Link>
           </div>
-          <small className='website-rights'>WEBSITE © 2023</small>
+          <small className='website-rights'>SHIME © 2023</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link'
